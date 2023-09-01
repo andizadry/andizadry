@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hola, I'm Andi Sadri Agung</h1>
-
-<h3 align="center">Machine Learning Engineer & AI Researcher</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=andizadry&label=PROFILE+VIEWS"/>
 </p>
 <p align="center">
 <img  src="https://github-profile-trophy.vercel.app/?username=andizadry&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
+
+<h1 align="center">👋 Hola, I'm Andi Sadri Agung</h1>
+<h3 align="center">Machine Learning Engineer & AI Researcher</h3>
 
 - 🌍 I'm based in **Indonesia**
 - 🖥️ See my portofolio *<u><a href=* target="_blank">*</a></u>*
