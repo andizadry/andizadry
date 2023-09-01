@@ -1,8 +1,12 @@
 <h1 align="center">👋 Hola, I'm Andi Sadri Agung</h1>
 
 <h3 align="center">Machine Learning Engineer & AI Researcher</h3>
-<img src="https://komarev.com/ghpvc/?username=andizadry&theme=oldie"/>
-<img  src="https://github-profile-trophy.vercel.app/?username=andizadry&label=Profile%20views&color=0e75b6&style=flat"/>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=andizadry&label=PROFILE+VIEWS"/>
+</p>
+<p align="center">
+<img  src="https://github-profile-trophy.vercel.app/?username=andizadry&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 - 🌍 I'm based in **Indonesia**
 - 🖥️ See my portofolio *<u><a href=* target="_blank">*</a></u>*
@@ -11,6 +15,7 @@
 - 🤝 I'm open to Collaborating on **Smart City Project**
 
 <h2 align="center">Social</h2>
+<p align="center">
 <a href="https://www.github.com/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
 <a href="https://www.linkedin.com/in/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
 <a href="http://www.medium.com/@andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676621629/ease-prof/social/medium-icon-svgrepo-com_wwdm1p.svg" height="40" width="40" alt=medium/>
@@ -29,8 +34,10 @@
 <!-- <a href="https://www.youtube.com/c/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730621/ease-prof/social/youtube-icon_dzg0aj.svg" height="40" width="40" alt=youtube/> -->
 <!-- <a href="https://www.twitch.tv/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730592/ease-prof/social/twitch-tile_swb6dy.svg" height="40" width="40" alt=twitch/> -->
 <!-- <a href="https://www.polywork.com/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676621741/ease-prof/social/polywork-logos-idr8P4-CGw_d5p6fm.svg" height="40" width="40" alt=polywork/> -->
-
+</p>
+  
 <h2 align="center">Skills</h2>
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_bvvkhv.svg" height="40" width="40" alt=Cpp/>
 <a href="https://www.oracle.com/java/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676727028/ease-prof/programming%20languages/java-icon_ksqmpo.svg" height="40" width="40" alt=Java/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609805/ease-prof/programming%20languages/javascript_zl26n3.svg" height="40" width="40" alt=Javascript/>
@@ -51,11 +58,17 @@
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730090/ease-prof/programming%20languages/after-effects-1_wzarae.svg" height="40" width="40" alt=After Effects/>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730117/ease-prof/programming%20languages/premiere-pro-cc_zhznfg.svg" height="40" width="40" alt=Premiere Pro/>
 <a href="https://www.figma.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730196/ease-prof/programming%20languages/icons8-figma_ikwot6.svg" height="40" width="40" alt=Figma/>
+</p>
 
 <h2 align="center">Badges</h2>
-<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=andizadry&show_icons=true&theme=blue-green"/>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andizadry&theme=dark"/>
-<img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andizadry&layout=compact&theme=dark"/>
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=andizadry&show_icons=true&theme=blue-green"/>
+<img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=andizadry&theme=blue-green"/>
+</p>
+<p align="center">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andizadry&layout=compact&theme=blue-green"/>
+</p>
+
 <!-- <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=andizadry&layout=compact-vertical&theme=dark"/> -->
 <h2>Support</h2>
 <a align="center" href="https://www.buymeacoffee.com/zadryzx" target="_blank" ><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="by Me Coffee"/>
