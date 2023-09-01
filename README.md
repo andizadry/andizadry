@@ -5,8 +5,8 @@
 <img  src="https://github-profile-trophy.vercel.app/?username=andizadry&label=Profile%20views&color=0e75b6&style=flat"/>
 
 - 🌍 I'm based in **Indonesia**
-- 🖥️ See my portofolio *<u><a href= target="_blank">a</a></u>*
-- ✉️ Contact Me At *<u><a href=mailto: target="_blank">a</a></u>*
+- 🖥️ See my portofolio *<u><a href=* target="_blank">a</a></u>*
+- ✉️ Contact Me At *<u><a href=mailto:* target="_blank">a</a></u>*
 - 🚀 I'm currently working on *<u><a href=ML Cohort-Bangkit Academy target="_blank">a</a></u>* 
 - 🤝 I'm open to Collaborating on **Smart City Project**
 
