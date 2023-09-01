@@ -70,5 +70,7 @@
 </p>
 
 <!-- <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=andizadry&layout=compact-vertical&theme=dark"/> -->
-<h2>Support</h2>
-<a align="center" href="https://www.buymeacoffee.com/zadryzx" target="_blank" ><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="by Me Coffee"/>
+<h2 align="center" >Support</h2>
+<p align="center">
+<a href="https://www.buymeacoffee.com/zadryzx" target="_blank" ><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="by Me Coffee"/>
+</p>
