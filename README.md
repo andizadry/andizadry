@@ -57,4 +57,4 @@
 <img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andizadry&theme=dark"/>
 <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andizadry&layout=compact&theme=dark"/>
 <h2>Support</h2>
-<a href="https://www.buymeacoffee.com/zadryzx" target="_blank" ><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="by Me Coffee"/>
+<a align="center" href="https://www.buymeacoffee.com/zadryzx" target="_blank" ><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="by Me Coffee"/>
