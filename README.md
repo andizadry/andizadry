@@ -4,16 +4,16 @@
 <img src="https://komarev.com/ghpvc/?username=andizadry&theme=oldie"/>
 <img  src="https://github-profile-trophy.vercel.app/?username=andizadry&label=Profile%20views&color=0e75b6&style=flat"/>
 
- - 🌍 I'm based in **Indonesia**
-- 🖥️ See my protfolio *<u><a href=a target="_blank">a</a></u>*
-- ✉️ Contact Me At *<u><a href=mailto:a target="_blank">a</a></u>*
-- 🚀 I'm currently working on *<u><a href=a target="_blank">a</a></u>* 
-- 🤝 I'm open to Collaborating on **a**
-- a
+- 🌍 I'm based in **Indonesia**
+- 🖥️ See my portofolio *<u><a href= target="_blank">a</a></u>*
+- ✉️ Contact Me At *<u><a href=mailto: target="_blank">a</a></u>*
+- 🚀 I'm currently working on *<u><a href=ML Cohort-Bangkit Academy target="_blank">a</a></u>* 
+- 🤝 I'm open to Collaborating on **Smart City Project**
+
 <h2>Social</h2>
 <a href="https://www.github.com/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
 <a href="https://andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730505/ease-prof/social/icons8-hashnode_itoqqi.svg" height="40" width="40" alt=hashnode/>
-<a href="http://www.medium.com/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676621629/ease-prof/social/medium-icon-svgrepo-com_wwdm1p.svg" height="40" width="40" alt=medium/>
+<a href="http://www.medium.com/@andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676621629/ease-prof/social/medium-icon-svgrepo-com_wwdm1p.svg" height="40" width="40" alt=medium/>
 <a href="https://www.dev.to/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730536/ease-prof/social/devto-ar21_ykf9vh.svg" height="40" width="40" alt=devto/>
 <a href="https://www.linkedin.com/in/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730564/ease-prof/social/linkedin-tile_jaz1sv.svg" height="40" width="40" alt=linkedin/>
 <a href="http://www.instagram.com/zadryzx" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730747/ease-prof/social/instagram-icon_awmjo1.svg" height="40" width="40" alt=instagram/>
