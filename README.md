@@ -10,7 +10,7 @@
 - 🚀 I'm currently working on *<u><a href=a target="_blank">Machine Learning Cohort Bangkit Academy</a></u>* 
 - 🤝 I'm open to Collaborating on **Smart City Project**
 
-<h2>Social</h2>
+<h2 align="center">Social</h2>
 <a href="https://www.github.com/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
 <a href="https://andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730505/ease-prof/social/icons8-hashnode_itoqqi.svg" height="40" width="40" alt=hashnode/>
 <a href="http://www.medium.com/@andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676621629/ease-prof/social/medium-icon-svgrepo-com_wwdm1p.svg" height="40" width="40" alt=medium/>
@@ -30,7 +30,7 @@
 <a href="https://www.polywork.com/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676621741/ease-prof/social/polywork-logos-idr8P4-CGw_d5p6fm.svg" height="40" width="40" alt=polywork/>
 <a href="https://www.twitter.com/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730463/ease-prof/social/twitter-tile_wvivtr.svg" height="40" width="40" alt=twitter/>
 
-<h2>Skills</h2>
+<h2 align="center">Skills</h2>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609803/ease-prof/programming%20languages/c_bvvkhv.svg" height="40" width="40" alt=Cpp/>
 <a href="https://www.oracle.com/java/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676727028/ease-prof/programming%20languages/java-icon_ksqmpo.svg" height="40" width="40" alt=Java/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676609805/ease-prof/programming%20languages/javascript_zl26n3.svg" height="40" width="40" alt=Javascript/>
@@ -52,9 +52,9 @@
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730117/ease-prof/programming%20languages/premiere-pro-cc_zhznfg.svg" height="40" width="40" alt=Premiere Pro/>
 <a href="https://www.figma.com/" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730196/ease-prof/programming%20languages/icons8-figma_ikwot6.svg" height="40" width="40" alt=Figma/>
 
-<h2>Badges</h2>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=andizadry&show_icons=true&theme=dark"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andizadry&theme=dark"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andizadry&layout=compact&theme=dark"/>
+<h2 align="center">Badges</h2>
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=andizadry&show_icons=true&theme=blue-green"/>
+<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=andizadry&theme=dark"/>
+<img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andizadry&layout=compact&theme=dark"/>
 <h2>Support</h2>
 <a href="https://www.buymeacoffee.com/zadryzx" target="_blank" ><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="by Me Coffee"/>
