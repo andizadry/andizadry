@@ -8,12 +8,12 @@
 <h1 align="center">👋 Hola, I'm Andi Sadri Agung</h1>
 <h3 align="center">Machine Learning Engineer & AI Researcher</h3>
 
-- 🌍 I'm based in **Indonesia**
+<!--- 🌍 I'm based in **Indonesia**
 - 🖥️ See my portofolio *<u><a href=* target="_blank">*</a></u>*
 - ✉️ Contact Me At *<u><a href=mailto:* target="_blank">*</a></u>*
 - 🚀 I'm currently working on *<u><a href=a target="_blank">Machine Learning Cohort Bangkit Academy</a></u>* 
 - 🤝 I'm open to Collaborating on **Smart City Project**
-
+-->
 <h2 align="center">Social</h2>
 <p align="center">
 <a href="https://www.github.com/andizadry" target="_blank" ><img src="https://res.cloudinary.com/dreamlist/image/upload/v1676730434/ease-prof/social/github-tile_gsrozh.svg" height="40" width="40" alt=github/>
@@ -66,7 +66,7 @@
 <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=andizadry&theme=blue-green"/>
 </p>
 <p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andizadry&layout=compact&theme=blue-green"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andizadry&layout=compact&theme=blue-green"/>
 </p>
 
 <!-- <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/wakatime/?username=andizadry&layout=compact-vertical&theme=dark"/> -->
