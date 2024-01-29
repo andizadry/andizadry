@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">👋 Hola, I'm Andi Sadri Agung</h1>
-<h3 align="center">Machine Learning & AI Learner</h3>
+<h3 align="center">AI Developer & Technology Enthusiast</h3>
 
 <!--- 🌍 I'm based in **Indonesia**
 - 🖥️ See my portofolio *<u><a href=* target="_blank">*</a></u>*
